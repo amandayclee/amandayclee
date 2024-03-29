@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/amandayclee/amandayclee/main/banner.jpg" alt="banner" width="1200" height="200">
+
 ### Hi there 👋
 
 I'm Yi Chien Lee, a recent graduate with a Master's in Management Information Systems from the University of Arizona. With over 4 years of experience in project management and business development before pursuing my master's program, I'm transitioning my career to software development!
