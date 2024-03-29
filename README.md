@@ -11,7 +11,7 @@ I'm Yi Chien Lee, a recent graduate with a Master's in Management Information Sy
 - 💬 Feel free to ask me about making dumplings!
 - 📫 Reach out to me at [LinkedIn](https://linkedin.com/in/yichienleee).
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I've never told a joke!
+- ⚡ Fun fact: I love water coloring in my free time. Do you know that traditional watercolor never uses opaque white? 
 
 ### Tech Stack ...
 Language
