@@ -1,19 +1,21 @@
-<img src="https://raw.githubusercontent.com/amandayclee/amandayclee/main/banner.jpg" alt="banner" width="1200" height="200">
+<img src="https://github.com/amandayclee/amandayclee/blob/main/banner.jpg" alt="banner" width="1200" height="10">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="banner" width="1200" height="200">
+<img src="https://github.com/amandayclee/amandayclee/blob/main/banner.jpg" alt="banner" width="1200" height="10">
 
-### Hi there 👋
-
+## Hi there 👋
 I'm Yi Chien Lee, a recent graduate with a Master's in Management Information Systems from the University of Arizona. With over 4 years of experience in project management and business development before pursuing my master's program, I'm transitioning my career to software development!
 
-### A Little About Me ...
 
+### A Little About Me ...
 - 🔭 Currently engaged in the Adobe Digital Academy Program.
-- 🌱 Actively enhancing skills in Java and Spring Boot.
+- 🌱 Actively enhancing skills in Java (Spring Boot), K8s and Go.
 - 👯 Open to collaborating on hackathons.
 - 🤔 Seeking guidance on transitioning to a software engineering career from a non-traditional background (especially in media & entertaiment related tech industry!) and contributing open-source projects.
 - 💬 Feel free to ask me about making dumplings!
 - 📫 Reach out to me at [LinkedIn](https://linkedin.com/in/yichienleee).
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love water coloring in my free time. Do you know that traditional watercolor never uses opaque white? 
+
 
 ### Tech Stack ...
 Language
