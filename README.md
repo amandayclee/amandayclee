@@ -1,5 +1,5 @@
 <img src="https://github.com/amandayclee/amandayclee/blob/main/banner.jpg" alt="banner" width="1200" height="10">
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="banner" width="1200" height="200">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="banner">
 <img src="https://github.com/amandayclee/amandayclee/blob/main/banner.jpg" alt="banner" width="1200" height="10">
 
 ## Hi there 👋
