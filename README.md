@@ -3,11 +3,10 @@
 <img src="https://github.com/amandayclee/amandayclee/blob/main/banner.jpg" alt="banner" width="1200" height="10">
 
 ## Hi there 👋
-I'm Yi Chien Lee, a recent graduate with a Master's in Management Information Systems from the University of Arizona. With over 4 years of experience in project management and business development before pursuing my master's program, I'm transitioning my career to software development!
+I'm amandayclee. With over 4 years of experience in project management and business development before pursuing my master's program, I'm transitioning my career to software development!
 
 
 ### A Little About Me ...
-- 🔭 Currently engaged in the Adobe Digital Academy Program.
 - 🌱 Actively enhancing skills in Java (Spring Boot), K8s and Go.
 - 👯 Open to collaborating on hackathons.
 - 🤔 Seeking guidance on transitioning to a software engineering career from a non-traditional background (especially in media & entertaiment related tech industry!) and contributing open-source projects.
