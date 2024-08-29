@@ -1,17 +1,17 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="banner">
 
 ## Hi there 👋
-I'm amandayclee. With over 4 years of experience in project management and business development before pursuing my master's program, I'm transitioning my career to software development!
+I'm amandayclee. After 4 years of in project management and business development and a master's in information systems management, I transitioned to software development!
 
 
 ### A Little About Me ...
-- 🌱 Actively enhancing skills in Java (Spring Boot), K8s and Go.
+- 🌱 Actively enhancing my skills in Java (Spring Boot), K8s and Go.
 - 👯 Open to collaborating on hackathons.
-- 🤔 Seeking guidance on transitioning to a software engineering career from a non-traditional background (especially in media & entertaiment related tech industry!) and contributing open-source projects.
+- 🤔 Software engineer who enjoys contributing to open-source projects.
 - 💬 Feel free to ask me about making dumplings!
 - 📫 Reach out to me at [LinkedIn](https://linkedin.com/in/yichienleee).
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I love water coloring in my free time. Do you know that traditional watercolor never uses opaque white? 
+- ⚡ Fun fact: I love water coloring in my free time. Did you know that traditional watercolor never uses opaque white? 
 
 
 ### Tech Stack ...
