@@ -1,14 +1,13 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="banner">
 
 ## Hi there 👋
-I'm amandayclee. After 4 years of in project management and business development and a master's in information systems management, I transitioned to software development!
+I'm amandayclee. After 4 years of in project management and business development, I transitioned to software development!
 
 
 ### A Little About Me ...
 - 🌱 Actively enhancing my skills in Java (Spring Boot).
 - 👯 Open to collaborating on hackathons.
 - 🤔 Software engineer who enjoys contributing to open-source projects.
-- 💬 Feel free to ask me about making dumplings!
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love water coloring in my free time. Did you know that traditional watercolor never uses opaque white? 
 
