@@ -5,11 +5,10 @@ I'm amandayclee. After 4 years of in project management and business development
 
 
 ### A Little About Me ...
-- 🌱 Actively enhancing my skills in Java (Spring Boot), K8s and Go.
+- 🌱 Actively enhancing my skills in Java (Spring Boot).
 - 👯 Open to collaborating on hackathons.
 - 🤔 Software engineer who enjoys contributing to open-source projects.
 - 💬 Feel free to ask me about making dumplings!
-- 📫 Reach out to me at [LinkedIn](https://linkedin.com/in/yichienleee).
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love water coloring in my free time. Did you know that traditional watercolor never uses opaque white? 
 
